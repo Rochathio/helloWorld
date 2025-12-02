@@ -1,0 +1,16 @@
+h1{
+    font-size: 30px;
+    text-align: center;
+    color: #e2985a
+    }
+    
+    p{
+    font-size: 20px;
+    text-align: left;
+    font-family: Helvetica, sans-serif;
+    }
+    img{border-radius: 10%;}
+    img:hover{transform: scale(1.5);}
+    body {
+    background-color: #ced7e6;
+    }
